@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text } from 'react-native';
 
-cons Albumlist = () => {
+const AlbumList = () => {
   return (
     <View>
       <Text>Albumlist!!!!</Text>
@@ -9,4 +9,4 @@ cons Albumlist = () => {
   );
 };
 
-export default Albumlist
+export default AlbumList;

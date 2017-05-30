@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/xml/preferences.xml"
+    },
+    {
         "merged": "/home/mlyra/projektit/ReactMap/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/home/mlyra/projektit/ReactMap/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/xml/preferences.xml"
     },
