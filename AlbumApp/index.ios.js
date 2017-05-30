@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-export default class ReactMap extends Component {
+export default class AlbumApp extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('ReactMap', () => ReactMap);
+AppRegistry.registerComponent('AlbumApp', () => AlbumApp);

@@ -4,7 +4,7 @@
 import React from 'react';
 import {AppRegistry, View } from 'react-native';
 import Header from './src/components/header';
-import Albumlist from './src/components/AlbumList';
+import AlbumList from './src/components/AlbumList';
 
 //Creating a Component
 const App = () => (

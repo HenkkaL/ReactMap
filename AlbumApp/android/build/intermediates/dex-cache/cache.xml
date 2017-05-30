@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_65bcf5eef2b2f71cda6956ba292f476bd1efd301.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/mlyra/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
         optimize="true"
@@ -48,6 +57,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.0_14762a74c345bef15b0603ea109e359b482fdf3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -72,6 +90,15 @@
         revision="23.0.1"
         sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
         <dex dex="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_937c9f447702b04d806344459ebaee336c3cd3ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mlyra/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a481d6bf61c195ada97979aae5b3df87754a4f15.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,57 +129,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/mlyra/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_2fc3b5f4b16009984f865804c1be24c48f32a02b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/mlyra/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_106d13a9e99e19a9c743a9864ef6f5faeec02029.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
-        <dex dex="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_65bcf5eef2b2f71cda6956ba292f476bd1efd301.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
-        <dex dex="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.0_14762a74c345bef15b0603ea109e359b482fdf3e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/mlyra/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_a481d6bf61c195ada97979aae5b3df87754a4f15.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
         <dex dex="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_2e3a88ec6d23f8cef98f578ece06691eb32cc5ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mlyra/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_2fc3b5f4b16009984f865804c1be24c48f32a02b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -198,6 +189,15 @@
         revision="23.0.1"
         sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
         <dex dex="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_4bd55e8c5cce074e039c67a57a216f9a47436984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mlyra/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_106d13a9e99e19a9c743a9864ef6f5faeec02029.jar" />
     </item>
 
 </items>

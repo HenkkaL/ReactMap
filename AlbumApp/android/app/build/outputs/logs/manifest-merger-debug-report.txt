@@ -62,7 +62,7 @@ MERGED from [org.webkit:android-jsc:r174650] /home/mlyra/projektit/TrainingReact
 		ADDED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:18:7-38
 	android:name
 		ADDED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:14:7-38
-activity#com.reactmap.MainActivity
+activity#com.albumapp.MainActivity
 ADDED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:19:7-28:18
 	android:label
 		ADDED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:21:9-41
