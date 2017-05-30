@@ -11,7 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "/home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-h720dp/values-h720dp.xml",
+                    "file": "/home/mlyra/.android/build-cache/4ea70617eade9251e37b2cc4fe6f571d0f1a8ce0/output/res/values-h720dp/values-h720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -21,22 +21,22 @@ ADDED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/ma
 		ADDED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:7:5-77
-MERGED from [com.facebook.react:react-native:0.44.0] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.44.0] /home/mlyra/.android/build-cache/a9aee48d6b8d2fc046234ffe6af1e3b1b72640bb/output/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:9:5-11:41
-MERGED from [com.facebook.react:react-native:0.44.0] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.0.1] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.0.1] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.0.1] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.react:react-native:0.44.0] /home/mlyra/.android/build-cache/a9aee48d6b8d2fc046234ffe6af1e3b1b72640bb/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/mlyra/.android/build-cache/4ea70617eade9251e37b2cc4fe6f571d0f1a8ce0/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /home/mlyra/.android/build-cache/caed5fc58c0d11c3d5cd80204af82d073c36d90d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/mlyra/.android/build-cache/70b457ca6b8821e36e60e69dac17cd96328acce3/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.0.1] /home/mlyra/.android/build-cache/545318e8a4c03703e8a634548e3744256f479b0c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.0.1] /home/mlyra/.android/build-cache/5fe77b9aaf13d56da92e7bd20365c8a41813f412/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.0.1] /home/mlyra/.android/build-cache/9c9265e4c647ce25a2739d0a4d6d359457877598/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.0.1] /home/mlyra/.android/build-cache/3d04d73494b43f8b9b84544ec5284f381d16e3fe/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.0.1] /home/mlyra/.android/build-cache/02091c445a65c8b702c4e6deae73366d08d250fd/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.0.1] /home/mlyra/.android/build-cache/d82af5d017a208d0b9983791be5bed07ce14f80b/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/mlyra/.android/build-cache/897a2824168a238111eae885c9a2a2fbd4283c88/output/AndroidManifest.xml:2:3-70
 	android:targetSdkVersion
 		ADDED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:11:9-38
 		INJECTED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml
@@ -47,11 +47,11 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] /home/mlyra/projektit/Trainin
 		INJECTED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml
 application
 ADDED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:13:5-30:19
-MERGED from [com.facebook.react:react-native:0.44.0] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650/AndroidManifest.xml:2:3-17
+MERGED from [com.facebook.react:react-native:0.44.0] /home/mlyra/.android/build-cache/a9aee48d6b8d2fc046234ffe6af1e3b1b72640bb/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /home/mlyra/.android/build-cache/4ea70617eade9251e37b2cc4fe6f571d0f1a8ce0/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /home/mlyra/.android/build-cache/caed5fc58c0d11c3d5cd80204af82d073c36d90d/output/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/mlyra/.android/build-cache/897a2824168a238111eae885c9a2a2fbd4283c88/output/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/mlyra/.android/build-cache/894419b12cf9d07a089e44a9b99304d6d7016f87/output/AndroidManifest.xml:2:3-17
 	android:label
 		ADDED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:16:7-39
 	android:allowBackup
@@ -86,9 +86,9 @@ activity#com.facebook.react.devsupport.DevSettingsActivity
 ADDED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:29:7-84
 	android:name
 		ADDED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:29:17-81
-android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
-android:uses-permission#android.permission.READ_PHONE_STATE
+uses-permission#android.permission.READ_PHONE_STATE
 IMPLIED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
 IMPLIED from /home/mlyra/projektit/TrainingReactNative/AlbumApp/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
